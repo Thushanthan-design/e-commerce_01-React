@@ -1,0 +1,22 @@
+.hightlight{
+    background-color: rgb(97, 33, 170);
+}
+
+.navbar-style{
+    background-color: rgb(8, 70, 36) !important;
+}
+
+.green-hightlight{
+    color: green;
+    font-size: 35px;
+}
+
+.red-hightlight{
+    color: red;
+    font-size: 25px;
+}
+
+.blue-hightlight{
+    color: blue;
+    font-size: 30px;
+}
